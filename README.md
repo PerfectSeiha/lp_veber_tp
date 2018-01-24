@@ -1,4 +1,4 @@
-## Welcome ma dude
+## Welcome, this is a practical work directed by @Nek-
 
 You can use the [editor on GitHub](https://github.com/WaximeA/lp_veber_tp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
